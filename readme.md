@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @AkeinHelika
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning in Grde 9
-- 📞 Contact me through whatsapp - +94761909291
+- Akein Helika is the founder of Sipsthara Learning Point Online Learning Platform. Sipsathara Learning Point is free online educational site, blog and a channel. 
 
-I am 14 years old. I am studying in grade 9. My hobbies are reading books, making sites, writing programmes
+Birthday - March 14 
+Country - Sri Lanka 
+Phone No - 0761909291
+Email - helika2004@gmail.com
+        admin@sipsatharaonline.com 
+        
+
+
+- 
+- 
+- 
+
+
 
 <!---
 AkeinHelika/AkeinHelika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
